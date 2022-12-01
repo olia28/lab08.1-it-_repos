@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\Student\lab08.1(it)\lab08.1(it)\lab08.1(it).cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\Student\lab08.1(it)\lab08.1(it)\lab08.1(it).cpp(1,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  UnitTest1.vcxproj -> D:\Student\lab08.1(it)\x64\Debug\UnitTest1.dll
